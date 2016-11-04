@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  YXDoubleYAxisLineChartView.h
 //  doubleYAxisLineChart
 //
 //  Created by 颜祥 on 2016/11/4.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface YXDoubleYAxisLineChartView : UIView
 
 @end
-
